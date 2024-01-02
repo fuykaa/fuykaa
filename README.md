@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there i'm Fuykaa 👋
 
+- 🌱 I’m currently studying information Technology at Gadjah Mada University
+- ✨ I’m currently learning Data Science and Bussiness
+- 🤔 I’m looking for help with Phython and Panda
+- 📫 How to reach me: fuykaumrsnkdw6@gmail.com
+- ⚡ Fun fact: i'm so excited to learn about bussiness technology and i'm new at this
 <!--
 **fuykaa/fuykaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
